@@ -4,7 +4,7 @@ using namespace std;
 float N1,N2,N3; //Asignacion de variables
 
 int main(){
-    cout<<"Ingrese Numero 1: ";
+    cout<<"Ingrese Numero 1: ";//Pide datos al usuario
     cin>>N1;
     cout<<"Ingrese Numero 2: ";
     cin>>N2;
@@ -22,3 +22,4 @@ int main(){
     }
     return 0;
 }
+
