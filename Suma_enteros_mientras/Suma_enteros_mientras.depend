@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520360448 source:e:\2018-1\ejercicios_clase\suma_enteros_mientras\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
